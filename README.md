@@ -1,16 +1,21 @@
-### Hi there 👋
+# Valério Cesar [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valeriocesar/)](https://www.linkedin.com/in/valeriocesar/)
 
-<!--
-**valeriocesar/valeriocesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Profile Views Counter](https://komarev.com/ghpvc/?username=valeriocesar&color=gray)](https://github.com/antonkomarev/github-profile-views-counter) 
 
-Here are some ideas to get you started:
+<h3>Olá 👋</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>Olá! Meu nome é Valério Cesar.</p>
+
+  <p>
+    Atualmente sou gerente de experiência do cliente da Scifex Sistemas.
+  </p>
+
+
+  <p>
+    A Scifex é responsável pelo desenvolvimento dos aplicativos Pedido Mobile e BabyZen, que hoje contam com mais de 20k downloads em todo o mundo.
+  </p>
+
+
+  <p>
+    A pouco tempo venho buscando maior conhecimento na área de desenvolvimento e programação, com muita intensidade, dedicação e apoio de meus familiares, mas principalmente do meu irmão que é desenvolvedor em uma grande empresa.
+  </p>
