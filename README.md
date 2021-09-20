@@ -17,5 +17,5 @@
 
 
   <p>
-    A pouco tempo venho buscando maior conhecimento na área de desenvolvimento e programação, com muita intensidade, dedicação e apoio de meus familiares, mas principalmente do meu irmão que é desenvolvedor em uma grande empresa.
+    A pouco tempo venho buscando maior conhecimento na área de desenvolvimento e programação, com muita intensidade, dedicação e apoio de meus familiares.
   </p>
