@@ -7,7 +7,7 @@
   <p>Olá! Meu nome é Valério Cesar.</p>
 
   <p>
-    Atualmente sou gerente de experiência do cliente da Scifex Sistemas e consultor de viagens pela Zeos Travelling.
+    Atualmente sou gerente de experiência do cliente da Scifex Sistemas e agente de viagens na Pick Viagens.
   </p>
 
 
